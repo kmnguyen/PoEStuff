@@ -5,5 +5,5 @@ Delve Jugg                      | https://pob.party/share/nasiukamohanin
 My Delve Jugg | https://pob.party/share/uwonomakukamii
 KB | https://pob.party/share/kotoukigumiahi | https://pastebin.com/Lzt727mL
 Current 5 way no HH |https://pob.party/share/okogoorokiware|https://pastebin.com/0RdAnU74
-Vaal Arc | | https://pastebin.com/wwFU9GRC
-KR TS | | https://pastebin.com/3bKk0BJ1
+Vaal Arc | https://pob.party/share/ahiowiuoomehan | https://pastebin.com/wwFU9GRC
+KR TS | https://pob.party/share/wonasatasimoho | https://pastebin.com/3bKk0BJ1
