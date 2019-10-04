@@ -7,4 +7,4 @@ KB | https://pob.party/share/kotoukigumiahi | https://pastebin.com/Lzt727mL
 Current 5 way no HH |https://pob.party/share/okogoorokiware|https://pastebin.com/0RdAnU74
 Vaal Arc | https://pob.party/share/ahiowiuoomehan | https://pastebin.com/wwFU9GRC
 KR TS | https://pob.party/share/wonasatasimoho | https://pastebin.com/3bKk0BJ1
-Spectre Guardian | https://pastebin.com/xVT0cvHa | https://pastebin.com/xVT0cvHa
+Spectre Guardian | https://pastebin.com/c1cYrCTg | https://pastebin.com/c1cYrCTg
