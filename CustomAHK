@@ -1,0 +1,133 @@
+SendMode Input
+SetWorkingDir %A_ScriptDir%
+
+#LWin::LAlt
+#LAlt::LWin
+
+
+#MaxHotkeysPerInterval 200
+
+ms_activated := 0
+return
+
+#IfWinActive, Path of Exile ahk_class POEWindowClass
+  toggle := false
+
+  WheelUp::
+    send {MButton}
+  return
+
+  WheelDown::
+    send {MButton}
+  return
+
+	*CapsLock::
+		; ms_activated := !ms_activated
+		send x
+	return
+
+  *Tab::
+		; ms_activated := !ms_activated
+		send x
+	return
+
+  ;F1::
+   ; BlockInput On
+    ;Send ^{Enter}{Home}{Delete}/exit {Enter}
+    ;BlockInput Off
+  ;return
+
+  RShift::
+    toggle := !toggle
+    return
+  if toggle 
+   ~e:: 
+      random, delay2, 3, 20
+      random, delay3, 3, 20
+      random, delay4, 3, 20
+      random, delay5, 3, 20
+  
+      send, e
+    
+      send, 1
+      sleep, %delay2%
+      send, 2 ;simulates the keypress of the 2 button. If you use another button, change it!
+
+      sleep, %delay3%
+      send, 3 ;simulates the keypress of the 3 button. If you use another button, change it!
+
+      sleep, %delay4%
+      send, 4 ;simulates the keypress of the 4 button. If you use another button, change it!
+
+      send, {shift down}
+      sleep, %delay2%
+      send, q ;simulates the keypress of the 2 button. If you use another button, change it!
+
+      sleep, %delay3%
+      send, w ;simulates the keypress of the 3 button. If you use another button, change it!
+
+      sleep, %delay4%
+      send, e ;simulates the keypress of the 3 button. If you use another button, change it!
+
+      sleep, %delay4%
+      send, {shift up}
+      
+
+      ;sleep, %delay5%
+      ;send, 5 ;simulates the keypress of the 5 button. If you use another button, change it!
+    
+      return
+
+
+  ;q:: 
+
+;    random, delay2, 57, 114
+ ;   
+  ;  send, 1
+   ; sleep, %delay2%
+    ;send, q ;simulates the keypress of the 2 button. If you use another button, change it!
+
+;    return
+
+
+  
+
+
+
+  ; ~Space & LButton::
+  ;   if (ms_activated = 0) {
+  ;     ms_activated := 1
+  ;     send x
+  ;     sleep, 75
+  ;     HoldDownKey(LButton, LButton)
+  ;   } else {
+  ;     HoldDownKey(LButton, LButton)
+  ;   }
+  ;   return
+
+
+return
+
+HoldDownKey(keyTrigger, keyHoldDown) {
+    send, {%keyHoldDown% down}
+    Loop
+    {
+      Sleep, 50
+      if !GetKeyState(%keyTrigger%, "P")
+        break
+    }
+    send, {%keyHoldDown% up}
+    return
+}
+
+
+#IfWinActive, ahk_exe javaw.exe
+  WheelUp::
+    send {MButton}
+  return
+
+  WheelDown::
+    send {MButton}
+  return
+return
+
