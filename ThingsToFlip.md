@@ -1,4 +1,4 @@
-Items | Buy | Sell
+Items | Buy | Sell | Notes
 --- | --- | ---
 prismatic | 6 | 8 - 9
 pristine | 8 | 10-11
@@ -8,4 +8,5 @@ wise oak | 10 | 35
 lion's roar | 10 | 38
 rumi connoction | 10 | 38
 the baron | 10 | 1ex
+||
 
