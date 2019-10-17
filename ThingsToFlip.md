@@ -8,5 +8,5 @@ wise oak | 10 | 35
 lion's roar | 10 | 38
 rumi connoction | 10 | 38
 the baron | 10 | 1ex
-||
+--- | --- | --- | ---
 
