@@ -9,3 +9,4 @@ Vaal Arc | https://pob.party/share/ahiowiuoomehan | https://pastebin.com/wwFU9GR
 KR TS | https://pob.party/share/wonasatasimoho | https://pastebin.com/3bKk0BJ1
 Spectre Guardian | https://pastebin.com/c1cYrCTg | https://pastebin.com/c1cYrCTg
 MF Necro | https://pob.party/share/torikususotote | https://pastebin.com/GJv8GKC0
+MF Raider | https://pastebin.com/2uKKQPGV | https://pastebin.com/2uKKQPGV
