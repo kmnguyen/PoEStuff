@@ -11,3 +11,4 @@ Spectre Guardian | https://pastebin.com/c1cYrCTg | https://pastebin.com/c1cYrCTg
 MF Necro | https://pob.party/share/torikususotote | https://pastebin.com/GJv8GKC0
 MF Raider | https://pob.party/share/neradunimoriho | https://pastebin.com/2uKKQPGV
 Iceshot Raider | https://pob.party/share/onoosikoyukite |https://pastebin.com/uimv5V9K
+CoC Ice Nova |https://pob.party/share/ukomotebenogon|https://pastebin.com/ER6xS6xz 
