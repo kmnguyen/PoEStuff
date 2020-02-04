@@ -1,6 +1,3 @@
-https://pob.party/share/osomomamabakik
-
-
 Items | Buy | Sell | Notes
 --- | --- | --- | ---
 prismatic | 6 | 8 - 9
