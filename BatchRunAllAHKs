@@ -1,3 +1,5 @@
 To Create Task: taskschd.msc
 
-New Shortcut > C:\Windows\System32\cmd.exe /c schtasks /Run /TN "\MyApps\TradeMacro" &  schtasks /Run /TN "\MyApps\TradeMacro2"
+New Shortcut > C:\Windows\System32\cmd.exe /c schtasks /Run /TN "\MyApps\TradeMacro" &  schtasks /Run /TN "\MyApps\TradeMacro2" & d: & cd Games\PoETools\CommonUsage\Lunaris & lunaris.bat
+
+
