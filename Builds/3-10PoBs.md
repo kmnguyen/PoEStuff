@@ -1,4 +1,4 @@
-Scion Heralds - https://pastebin.com/LQ0nvueB - https://pastebin.com/BdK10emQ - https://pastebin.com/DPBXr0SX
+Scion Heralds - https://pastebin.com/yLqVgmy4
 
 Sirus - https://pastebin.com/8SrJJ0ms
 
