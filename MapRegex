@@ -2,7 +2,7 @@ to roll maps:
 "e: \+[2][5-9]|e: \+[3][0-9]|nem|bey|normal"
 
 to check for bricked maps: 
-"e: \+[1][8-9]|e: \+[2][0-7]|cemetery"
+"e: \+[1][8-9]|e: \+[2][0-7]|flooded|wharf"
 
 to check for well rolled maps: 
 "e: \+[2][8-9]|e: \+[3][0-9]|e: \+[4][0-9]|unid"
