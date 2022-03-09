@@ -9,3 +9,6 @@ to check for well rolled maps:
 
 int stacker bricked maps:
 "leech|regen|reflect|recovery"
+
+RF bricked maps:
+"recovery rate of life|player resi|regen"
