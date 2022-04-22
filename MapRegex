@@ -12,6 +12,9 @@ int stacker bricked maps:
 
 RF bricked maps:
 "recovery rate of life|player resi|regen"
+"tal d|regen|r r|recovery rate"
+tal d - ele reflect
+r r - max player resistances
 
 Contracts:
 "recovery rate of|alert level increases"
