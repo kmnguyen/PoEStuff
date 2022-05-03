@@ -12,7 +12,7 @@ int stacker bricked maps:
 
 RF bricked maps:
 "recovery rate of life|player resi|regen"
-"tal d|regen|r r|recovery rate"
+"tal d|regen|r r|y rate of|aura"
 tal d - ele reflect
 r r - max player resistances
 
