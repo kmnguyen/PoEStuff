@@ -7,6 +7,9 @@ to check for bricked maps:
 to check for well rolled maps: 
 "e: \+[2][8-9]|e: \+[3][0-9]|e: \+[4][0-9]|unid"
 
+Early Heist:
+"Lockp|Demo|Perc"
+
 int stacker bricked maps:
 "leech|regen|reflect|recovery"
 
